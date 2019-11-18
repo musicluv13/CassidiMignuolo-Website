@@ -1,6 +1,8 @@
 
-# Welcome to LearnCS8 Resume Website
+# Welcome to Cassidi Mignuolo's Resume Website
 
-This is an template website for you to fill in your own information. Follow the instructions at https://learncs8.com
+This is a detailed resume for any jobs pertaining to marketing. 
 
 Special thanks to the open source bootstrap libraries that made this website possible. 
+
+![Website Preview](img/screenshot.png)
